@@ -60,7 +60,7 @@ a {
 }
 
 .header {
-  background-image: url(/images/header-img.jpg);
+  background-image: url(images/header-img.jpg);
   @extend %bgi;
 }
 
@@ -212,7 +212,7 @@ a {
 
 .conquer {
   padding-bottom: 430px;
-  background-image: url(/images/conquer-img.jpg);
+  background-image: url(images/conquer-img.jpg);
   background-position: right top;
   background-repeat: no-repeat;
   background-size: 50%;
@@ -317,7 +317,7 @@ a {
 }
 
 .gallery__video {
-  background-image: url(/images/gallery/gallery-video.jpg);
+  background-image: url(images/gallery/gallery-video.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -357,7 +357,7 @@ a {
 }
 
 .blog__slider-items {
-  background-image: url(/images/gallery/blog-img.jpg);
+  background-image: url(images/gallery/blog-img.jpg);
   @extend %bgi;
   display: flex;
   justify-content: flex-end;
@@ -491,7 +491,7 @@ a {
 }
 
 .map {
-  background-image: url(/images/map.jpg);
+  background-image: url(images/map.jpg);
   @extend %bgi;
   height: 100vh;
 }
